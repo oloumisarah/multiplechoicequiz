@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+
+    <question number="1">
+        <question_defintion>What version of JDK is required for this course?</question_defintion>
+        <option_A>[A] JDK 1.8</option_A>
+        <option_B>[B] JDK 1.0</option_B>
+        <option_C>[C] Java SE 10</option_C>
+        <option_D>[D] Java SE 8</option_D>
+        <option_E>[E] None</option_E>
+        <answer>A</answer>
+    </question>
+
+    <question number="2">
+        <question_defintion>What does AVD stand for in android studio?</question_defintion>
+        <option_A>[A] Android Visual Debugger</option_A>
+        <option_B>[B] Android Virtual Debugger</option_B>
+        <option_C>[C] Android Virtual Device</option_C>
+        <option_D>[D] Android Virtual Developer</option_D>
+        <option_E>[E] None</option_E>
+        <answer>C</answer>
+    </question>
+
+    <question number="3">
+        <question_defintion>Which of these keywords can be used to prevent Method overriding?</question_defintion>
+        <option_A>[A] Private</option_A>
+        <option_B>[B] Public</option_B>
+        <option_C>[C] Protected</option_C>
+        <option_D>[D] Final</option_D>
+        <option_E>[E] None</option_E>
+        <answer>C</answer>
+    </question>
+    <question number="3">
+        <question_defintion>Which of these keywords can be used to prevent Method overriding?</question_defintion>
+        <option_A>[A] Private</option_A>
+        <option_B>[B] Public</option_B>
+        <option_C>[C] Protected</option_C>
+        <option_D>[D] Final</option_D>
+        <option_E>[E] Both A and D</option_E>
+        <answer>E</answer>
+    </question>
+
+    <question number="4">
+        <question_defintion>Java is a ________ programming language.</question_defintion>
+        <option_A>[A] World Wide Web Display</option_A>
+        <option_B>[B] Declarative</option_B>
+        <option_C>[C] Assembly</option_C>
+        <option_D>[D] Object Oriented</option_D>
+        <option_E>[E] None</option_E>
+        <answer>D</answer>
+    </question>
+
+    <question number="5">
+        <question_defintion>What command do we use to compile Java Code from the terminal?</question_defintion>
+        <option_A>[A] compile</option_A>
+        <option_B>[B] build</option_B>
+        <option_C>[C] java</option_C>
+        <option_D>[D] javac</option_D>
+        <option_E>[E] None</option_E>
+        <answer>D</answer>
+    </question>
+
+    <question number="6">
+        <question_defintion>In what folder do we access the XML files?</question_defintion>
+        <option_A>[A] res</option_A>
+        <option_B>[B] generateJava</option_B>
+        <option_C>[C] java</option_C>
+        <option_D>[D] manifests</option_D>
+        <option_E>[E] None</option_E>
+        <answer>A</answer>
+    </question>
+
+    <question number="7">
+        <question_defintion>What is the file activity_main.xml used for?</question_defintion>
+        <option_A>[A] This is where you write your Java code.</option_A>
+        <option_B>[B] Describes and configures what various UI components will be and how they will be positioned.</option_B>
+        <option_C>[C] Describes and configures only what various UI components will.</option_C>
+        <option_D>[D] Describes and configures only how various they will be positioned.</option_D>
+        <option_E>[E] None </option_E>
+        <answer>B</answer>
+    </question>
+
+    <question number="8">
+        <question_defintion>What are Linear Layouts?</question_defintion>
+        <option_A>[A] Enables you to specify the exact location of its children.</option_A>
+        <option_B>[B] Group that displays child views in relative positions.</option_B>
+        <option_C>[C] Group that displays a list of scrollable items.</option_C>
+        <option_D>[D] Group that aligns all children in a single direction, vertically or horizontally.</option_D>
+        <option_E>[E] None</option_E>
+        <answer>D</answer>
+    </question>
+
+    <question number="9">
+        <question_defintion>What does DP stand for when adding padding/margins?</question_defintion>
+        <option_A>[A] Display profile</option_A>
+        <option_B>[B] Density pixels</option_B>
+        <option_C>[C] Density identity pixels</option_C>
+        <option_D>[D] Display identity pixels</option_D>
+        <option_E>[E] None</option_E>
+        <answer>C</answer>
+    </question>
+
+    <question number="10">
+        <question_defintion>What type of inheritance does Java have?</question_defintion>
+        <option_A>[A] Class inheritance</option_A>
+        <option_B>[B] Single inheritance</option_B>
+        <option_C>[C] Object inheritance</option_C>
+        <option_D>[D] Double inheritance</option_D>
+        <option_E>[E] None</option_E>
+        <answer>A</answer>
+    </question>
+</quiz>
+

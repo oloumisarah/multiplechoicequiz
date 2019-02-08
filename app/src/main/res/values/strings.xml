@@ -1,0 +1,20 @@
+<resources>
+    <!---<string name="app_name">TrueFalseQuiz</string> -->
+    <string name="app_name">1601Quiz</string>
+
+    <string name="question_defintion">Should I ask a question or not?</string>
+    <string name="option_A">possible answer a</string>
+    <string name="option_B">possible answer b</string>
+    <string name="option_C">possible answer c</string>
+    <string name="option_D">possible answer d</string>
+    <string name="option_E">possible answer e</string>
+    <string name="previous_button">Previous</string>
+    <string name="submit_button">Submit</string>
+    <string name="next_button">Next</string>
+    <string name="answer_button_a_label">A</string>
+    <string name="answer_button_b_label">B</string>
+    <string name="answer_button_c_label">C</string>
+    <string name="answer_button_d_label">D</string>
+    <string name="answer_button_e_label">E</string>
+
+</resources>
